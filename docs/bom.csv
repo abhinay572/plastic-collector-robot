@@ -1,0 +1,23 @@
+group,item,qty,est_low_inr,est_high_inr,price_basis
+Compute and sensing,NVIDIA Jetson Orin Nano Super developer kit (8 GB),1,35000,55000,checked online Nov 2026
+Compute and sensing,NVMe SSD 256 GB,1,2500,2500,estimate
+Compute and sensing,Depth camera (Luxonis OAK-D Lite or similar),1,15000,32000,checked online Nov 2026
+Compute and sensing,2D LiDAR (Slamtec RPLIDAR C1),1,7000,9500,checked online Nov 2026
+Compute and sensing,GPS module (u-blox NEO-M8N class),1,2500,2500,estimate
+Compute and sensing,IMU (BNO055 / BNO085),1,2500,2500,estimate
+Compute and sensing,ESP32 dev board,1,600,600,estimate
+Compute and sensing,Waterproof ultrasonic sensor (JSN-SR04T),3,1200,1200,estimate
+Compute and sensing,4G USB modem,1,2500,2500,estimate
+Drive,24 V geared DC motor with encoder,4,24000,24000,estimate
+Drive,Dual-channel 30 A motor driver,2,14000,14000,estimate
+Drive,Pneumatic wheel with hub (10-12 inch),4,8000,8000,estimate
+Drive,"Frame: aluminium extrusion, sheet metal, fasteners",1,20000,20000,estimate
+Arm,"5-axis arm: joint actuators, links, bearings",1,50000,50000,estimate
+Arm,Gripper with servo and soft pads,1,4000,4000,estimate
+Arm,Servo / actuator controller,1,2000,2000,estimate
+Power,24 V 20 Ah LiFePO4 battery with BMS,1,18000,18000,estimate
+Power,Battery charger,1,3000,3000,estimate
+Power,DC-DC converters (24-12 V and 24-5 V),2,2000,2000,estimate
+Power,"Fuse, contactor, E-stop, wiring, connectors",1,5000,5000,estimate
+Body,Hopper sheet metal and 12 V linear actuator,1,5000,5000,estimate
+Body,"Beacon, lights, sealed electronics box, cable glands",1,5000,5000,estimate
